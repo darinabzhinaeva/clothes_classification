@@ -1,0 +1,3 @@
+/home/ilyas/local_disk/Py/clothes_multi_classification/folders/khasan1
+/home/ilyas/local_disk/Py/clothes_multi_classification/folders/khasan2
+/home/ilyas/local_disk/Py/clothes_multi_classification/folders/khasan3
